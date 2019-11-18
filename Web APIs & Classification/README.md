@@ -1,4 +1,4 @@
-# Project 3 - Web APIs & Classification
+# Web APIs & Classification
 
 Welcome to Project 3! 
 

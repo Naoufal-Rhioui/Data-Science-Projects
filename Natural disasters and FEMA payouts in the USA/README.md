@@ -1,4 +1,4 @@
-# Project 5: Natural disasters and FEMA payouts in the USA
+# Natural disasters and FEMA payouts in the USA
 
 
 ## Introduction
