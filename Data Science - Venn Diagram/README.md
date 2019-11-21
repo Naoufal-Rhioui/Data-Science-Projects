@@ -14,8 +14,10 @@ The objective of every analytics project is:
     -To be executed at a low cost
     
 As the below Venn diagram shows, meeting all of the above objectives is impossible. Any project can at best encompass two of the three objectives.
-![](https://berkonomics.com/wp-content/uploads/2015/11/goodfastcheap1-1.png)
 
+
+
+![](https://berkonomics.com/wp-content/uploads/2015/11/goodfastcheap1-1.png)
 
 **The Problem:**
 

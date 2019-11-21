@@ -12,6 +12,7 @@
 Our goal is to collect 2000 posts from two subreddits (sports and politics) using reddit's API. For this binary classification problem, we will be using NLP to train a classifier on which subrredit a given post came from.
 
 **Overview:**
+
 -Libraries:
     -Pandas
     -Sklearn
