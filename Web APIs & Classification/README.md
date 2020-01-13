@@ -13,13 +13,13 @@ Our goal is to collect 2000 posts from two subreddits (sports and politics) usin
 
 **Overview:**
 
--Libraries:
-    -Pandas
-    -Sklearn
-    -Request
-    -Time
-    -Numpy
-    -CSV
+- Libraries:
+    - Pandas
+    - Sklearn
+    - Request
+    - Time
+    - Numpy
+    - CSV
     
 - Data: 
 Data collected through webcrapping reddit's API. Since reddit only provide 25 posts per request, we used a for loop to request 40 times to get to Approximately 1000 posts from each subreddit. 
@@ -45,7 +45,7 @@ Data collected through webcrapping reddit's API. Since reddit only provide 25 po
     - After we successfully scraper the subreddits, we put the data into a dataframe.
     - Created 'label' column to differentiate the two dataframes and merged them.
     - Created a new column which combined the title and selftext columns so we could use a pandas series         for our CountVectorizer.
-    - We loaded pipeline object into our GridSearchCV model to tune over the ountVectorizer. We also tried       logistic regression model to compare our scores.
+    - We loaded pipeline object into our GridSearchCV model to tune over the countVectorizer. We also tried       logistic regression model to compare our scores.
     
     
 
