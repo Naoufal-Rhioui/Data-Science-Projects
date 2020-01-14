@@ -1,6 +1,6 @@
-# Project 6 - FIFA 2020
+# FIFA - Soccer Players Market Value
 
-Welcome to Project 6! 
+Welcome to FIFA project! 
 
 **Content:**
 
