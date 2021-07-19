@@ -58,7 +58,7 @@ Data retrieved form kaggle (link provided above) is composed of 7 independent da
 
       
 **To Do List:**
-- Rewrite few codes (data cleaning section) to make it more efficient.
+- Rewrite few codes (data cleaning section) to make it more efficient
 - Learn and implement flask.
 
 
