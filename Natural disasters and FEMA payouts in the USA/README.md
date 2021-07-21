@@ -1,6 +1,6 @@
 # Natural disasters and FEMA payouts in the USA
 
-[]! (https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-.jpg)
+![](https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-.jpg)
 
 ## Introduction
 
