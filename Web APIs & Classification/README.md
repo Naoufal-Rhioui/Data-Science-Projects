@@ -55,5 +55,5 @@ Data collected through webcrapping reddit's API. Since reddit only provide 25 po
 We successfully created a close to prfect model with a 0.98 score.
 
 
-
+ 
  
