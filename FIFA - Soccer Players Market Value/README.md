@@ -1,6 +1,6 @@
 # FIFA - Soccer Players Market Value
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fstory%2Fwhy-do-some-people-call-football-soccer&psig=AOvVaw2EyP9zChDXm9XeNFn1YssU&ust=1626914100992000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCnqsP18vECFQAAAAAdAAAAABAD)
+![](https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg)
 
 Welcome to FIFA project! 
 
